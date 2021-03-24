@@ -16,3 +16,6 @@
 * added alt attributes to all the images, descriptive alts for images and empty alts for decorative graphics
 * changed selectors in CSS to match new semantic elements in HTML
 * consolidated CSS by using less specific selectors to remove repetetive code
+
+## Website
+https://crossigarcia.github.io/horiseon/
