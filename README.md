@@ -1,7 +1,7 @@
 # Horiseon Code Refactor Challenge
 
 ## User Story
-* A mrketing agency that needs their code updated to follow accessibility standards so that their site is optimized for search engines.
+* A marketing agency that needs their code updated to follow accessibility standards so that their site is optimized for search engines.
 
 ## Acceptance Criteria
 * Source code contains semantic HTML elements
@@ -19,3 +19,7 @@
 
 ## Website
 https://crossigarcia.github.io/horiseon/
+
+## Screenshot of Website  
+
+![Horiseon Webpage](./assets/images/horiseon-index.png)
