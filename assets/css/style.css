@@ -72,20 +72,6 @@ header nav ul li {
     margin-left: 20px;
 }
 
-.content img {
-    max-height: 200px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -98,6 +84,20 @@ header nav ul li {
 .content div h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.content img {
+    max-height: 200px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 /*main content section styles end*/
 
