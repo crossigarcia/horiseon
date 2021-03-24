@@ -11,7 +11,7 @@
 * title is concise and descriptive
 
 ## Solution
-* changed certain divs to other semantic elements such as <header>, <nav>, <footer> and <section> elements to provide structure to the body
+* changed certain divs to other semantic elements such as header, nav, footer and section elements to provide structure to the body
 * added an id attribute to social-media-marketing div so that navigation link works
 * added alt attributes to all the images, descriptive alts for images and empty alts for decorative graphics
 * changed selectors in CSS to match new semantic elements in HTML
